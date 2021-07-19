@@ -7,7 +7,7 @@ Configuration:
    LDD Discipline (T/F):  true
    LDD Namespace URL:     http://pds.nasa.gov/pds4/
    LDD URN Prefix:        urn:nasa:pds:
-   Time                   Sat Jul 03 00:43:16 UTC 2021
+   Time                   Mon Jul 19 15:55:25 UTC 2021
    Common Schema          [PDS4_PDS_1G00.xsd]
    Common Schematron      [PDS4_PDS_1G00.sch]
    IM Version Id:         1.16.0.0
@@ -20,7 +20,7 @@ Configuration:
    IM Document Spec       [DMDocument.pins]
 
 Parameters:
-   Input File             [/home/runner/work/ldd-template/ldd-template/src/PDS4_EXAMPLE_IngestLDD.xml]
+   Input File             [/home/runner/work/my-ldd-test/my-ldd-test/src/PDS4_EXAMPLE_IngestLDD.xml]
    PDS Processing         true
    LDD Processing         true
    Discipline LDD         true
@@ -52,7 +52,7 @@ Parsed Input - Attributes:
 
    name                   my_first_attribute
    version                1.16
-   value data type        ASCII_Integer
+   value data type        ASCII_Real
    description            My first attribute 
 
 Parsed Input - Classes:
