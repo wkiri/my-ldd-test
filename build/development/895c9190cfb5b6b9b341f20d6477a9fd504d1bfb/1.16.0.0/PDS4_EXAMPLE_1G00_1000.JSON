@@ -4,7 +4,7 @@
       "Title": "PDS4 Data Dictionary" ,
       "IM Version": "1.16.0.0" ,
       "LDD Version": "1.0.0.0" ,
-      "Date": "Mon Jul 19 16:07:41 UTC 2021" ,
+      "Date": "Mon Jul 19 16:10:10 UTC 2021" ,
       "Description": "This document is a dump of the contents of the PDS4 Data Dictionary" ,
       "namespaces": ["pds:", "example:"] ,
       "classDictionary": [
